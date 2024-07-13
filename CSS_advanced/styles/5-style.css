@@ -17,7 +17,7 @@
 body {
   color: var(--text-color);
   font-family: var(--font-family-base);
-  font-size: var(--font-family-medium)
+  font-size: var(--font-family-medium);
 }
 
 a {
